@@ -1,18 +1,15 @@
-# ling172
+# Opis predmeta
 
-Course website for ling172/psyc215: Data Science for studying language and the mind.
+Spletna stran posameznega predmeta
 
-## Editing
+## Urejanje
 
 ### `index.md`
 
-The website is created with two files: `_config.yml` and `index.md`. Edits should be made to `index.md` only. The simplest way to make changes is right in the github GUI. 
+Spletno mesto je ustvarjeno z dvema datotekama: `_config.yml` in `index.md`. Urejati je treba samo datoteko `index.md`. Spremembe lahko najenostavneje izvedete kar v grafičnem uporabniškem vmesniku githuba. 
 
-### Adding links to course materials
+### Dodajanje povezav do gradiv za predmete
 
-Add links to course materials (e.g. colab notebooks, google slides, etc) to the schedule portion of the course website. Make sure the notebooks are viewable, but not editable by anyone with the link. 
+Dodajte povezave do gradiva za predmet (npr. beležnice, prosojnice itd.) na spletni strani predmeta v delu, ki se nanaša na urnik. Poskrbite, da bodo zvezki vidni, vendar jih ne bo mogel urejati nihče, ki ima povezavo. 
 
-## Website
-
-The website renders here, and is updated after each commit: [https://kathrynschuler.com/ling172](https://kathrynschuler.com/ling172)
 
