@@ -30,7 +30,7 @@ layout: page
 [Kevin Liang](mailto:kevliang@sas.upenn.edu) - Office Hours Fridays 1 - 2pm in person (DRL)
 
 
-## Getting Help
+## Pomoč
 
 - **Ed Disucssion:** The best way to get help anytime is to ask a question on the [discussion board](https://edstem.org/us/courses/12952/discussion/). You'll get a response within 24 hours, usually much faster. Students are encouraged to answer each other's questions as well. 
 
@@ -69,7 +69,7 @@ Section | Time | Location | LA
 - Note that **lab problem sets are ungraded**. They are designed to help you practice your new skills in a low-pressure environment and to help you prepare for the exams!
 
 
-## Schedule
+## Razporeditev tem
 Schedule is subject to change. All lectures will be recorded and [posted here](https://canvas.upenn.edu/courses/1613834/external_tools/90311) a few minutes after each class.
 
 Wk  | Lecture | Readings | Resources
